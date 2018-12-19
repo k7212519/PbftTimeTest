@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PbftTimeTest</string>
+    <string name="start">start Simulate</string>
+    <string name="noStart">timeUsed:notDetected</string>
+</resources>
